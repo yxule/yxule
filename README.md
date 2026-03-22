@@ -1,6 +1,6 @@
-Nikita 18, self-taught, and probably fueled by energy drinks
+Nikita, 18, self-taught, and probably fueled by energy drinks
 
-Passionate about backend-dev 
+Passionate about backend-development
 
 - 🔹 Python: FastAPI, aiohttp
 - 🔹 PostgreSQL, Redis, Docker
